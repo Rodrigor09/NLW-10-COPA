@@ -22,7 +22,7 @@ body.green {
     --card-title-border-color: #047c3f;
     --card-color-primary: #047c3f;
     --card-bg-color: #1a1f18;
-    --bg: url(./assets/bg-green.svg);
+    --bg: url(./assets/bg-blue.svg);
 }
 
 ul {
@@ -33,8 +33,8 @@ body {
     background-color: #121214;
     background-image: var(--bg);
     background-position:top center;
-    background-repeat: no-repeat ;
-    background-size: cover;
+    /* background-repeat: no-repeat ; */
+    /* background-size: cover; */
       }
 
 body * {
